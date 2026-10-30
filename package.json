@@ -1,0 +1,14 @@
+{
+  "name": "cs2-sequelize-control-point",
+  "version": "1.0.0",
+  "description": "Контрольная точка: Next.js + Sequelize (CS2 Theme)",
+  "main": "queries.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "query": "node queries.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  }
+}
